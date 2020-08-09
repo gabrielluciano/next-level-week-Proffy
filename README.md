@@ -8,7 +8,7 @@ Este projeto reflete a versão desenvolvida por mim e por isso pode não estar 1
 
 ## Instalação
 
-Para instalar os pacotes necessários é preciso ter o gerenciador de pacotes [npm](https://www.npmjs.com/) (Node Package Manager), além do [Node.js](https://nodejs.org/). Se você já possui, basta acessar a pasta nlw2 pelo terminal e rodar o comando abaixo para instalar as dependências:
+Para instalar os pacotes necessários é preciso ter o gerenciador de pacotes [npm](https://www.npmjs.com/) (Node Package Manager), além do [Node.js](https://nodejs.org/). Se você já possui, basta acessar a pasta raíz pelo terminal e rodar o comando abaixo para instalar as dependências:
 
 ```bash
 npm i
